@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pandas
-scikit-learn
 joblib
 numpy
 category_encoders
+scikit-learn==1.2.2
